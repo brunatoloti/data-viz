@@ -28,3 +28,12 @@
 </ul>
 <br></br>
 <img src="https://github.com/brunatoloti/data-viz/blob/main/img/situacao-regioes.png">
+<br></br>
+<br></br>
+<b>Bibliotecas Utilizadas</b>
+<ul>
+<li> Pandas
+<li> Numpy
+<li> Geopandas
+<li> Plotly
+</ul>
