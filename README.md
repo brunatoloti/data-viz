@@ -5,7 +5,7 @@ Repositório para o curso de Visualização de Dados em Python oferecido pelo Pr
 <br>
 Espalhamento de COVID pelos municípios Brasileiros até a data de 24/Julho/2020
 <br>
-![Alt text](/data-viz/espalhamento-brasil.png?raw=true "Optional Title")
+<img src="https://github.com/brunatoloti/data-viz/blob/main/img/espalhamento-brasil.png">
 </br>
 </br>
 </br>
